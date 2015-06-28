@@ -2,7 +2,7 @@ avatar
 ======
 An icon of myself.
 
-github.svg
+sakura.svg
 ----------
 Created by Adobe Illustrator CS5 (and modify by hand on SVG).
 
